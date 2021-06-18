@@ -1,5 +1,5 @@
 # Ori Yosefi
-## A third - year Computer ScienceB.Scstudent at BGU, looking for a development position (Full time).
+## A third-year Computer Science B.Sc student at BGU, looking for a development position (Full time).
 -------------------     ----------------------------
 ### ✉️ orei30@gmail.com
 ### 📱 +972525099559

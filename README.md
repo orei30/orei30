@@ -1,15 +1,13 @@
 # Ori Yosefi
 ## A third-year Computer Science B.Sc student at BGU, looking for a development position (Full time).
--------------------     ----------------------------
 ### ✉️ orei30@gmail.com
 ### 📱 +972525099559
--------------------     ----------------------------
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 ## education
----------
 2018 - present **B.Sc, Computer Science** Ben-Gurion University
 
 ## Professional experience
----------
 2018 - 2020 **Co-Founder** ReDrive <br/>
 Platform that generates a numeric grade per driver.
 ```
@@ -18,7 +16,6 @@ Platform that generates a numeric grade per driver.
 • Supported by Ben-Gurion VC "Cactus Capital"
 ```
 ## Projects
----------
 **QtestCrm**</br>
 ```
 Develop CRM to manage workers, customers, price offers, projects, and the creation of standard test reports.
@@ -37,7 +34,6 @@ a mobile application the allows control INGLASS shutter by BLE communication.
 • Flutter
 ```
 ## Skills
----------
 ### Programming languages
 ```
 • Java           • Dart
@@ -64,3 +60,6 @@ a mobile application the allows control INGLASS shutter by BLE communication.
 • Hebrew - Native
 • English - High Level
 ```
+
+[1]: https://github.com/orei30/
+[2]: https://www.linkedin.com/in/ori-yosefi-1b0899164/

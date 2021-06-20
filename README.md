@@ -11,7 +11,7 @@
 2018 - 2020 **Co-Founder** ReDrive <br/>
 Platform that generates a numeric grade per driver.
 ```
-• Developing a stand-alone Arduino basedOBD device, which communicates with a MQTT brokerover 3G communication - C and C++.
+• Developing a stand-alone Arduino based OBD device, which communicates with a MQTT broker over 3G communication - C and C++.
 • Develop a listener client on ec2 (AWS Amazon) - Java
 • Supported by Ben-Gurion VC "Cactus Capital"
 ```
